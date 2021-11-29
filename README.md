@@ -1,2 +1,2 @@
 # coivid_project
-Personal data analysis project on global covid statistic
+Quick side project for getting familiar with Microsoft SQL Server and for using editing data for tableau displays
